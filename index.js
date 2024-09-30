@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(cors());
 //dummy route for cannot get
 app.get("/",(req,res)=>{
-  res.send("Welcome Divssss🩵")
+  res.send("Welcome to our backend 😍")
 })
 
 //original api
